@@ -17,8 +17,8 @@
             "type": 1
         },
         {
-            "name": "CLASIFFICATION_FINAL",
-            "type": 1
+            "name": "COVID",
+            "type": 3   
         },
         {
             "name": "DIABETES",
